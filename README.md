@@ -17,6 +17,8 @@ Summer Courses: May-September
  2.  [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/fundamentals-of-statistics)
 
 ### Google Data Analytics Professional Certificate
+![image](https://user-images.githubusercontent.com/11603279/114791391-7921bd00-9d54-11eb-9313-d593e5e6ef73.png)
+
 1.  [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics)
 2.  [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)
 3. [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation?specialization=google-data-analytics)
