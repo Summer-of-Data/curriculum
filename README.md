@@ -1,3 +1,8 @@
+# Update: November 2021
+Well, just to make a public comment on this ORG & Repo, a whole lot happened this summer! Just as I was gearing up in this plan of attack for the summer, I got 3-4 amazing opportunities that came up. I got a new job doing research in the HealthTech field; I was solicited to join an amazing research-mapping startup; I got a grant to support research efforts in the UK for some months; and at the end of the summer, I found out I was accepted to a NSF graduate research fellowship. This was a great project plan and layout, and who knows if I'll go back to it later. I'm really hoping to get into graduate school for the next summer, but come the turn of the year, I may invest heavily again in fleshing out some of these related skills. Cheers!
+
+- - - Original Content below - - - 
+
 # Curriculum and Motivation
 
 Setting the scope for the "Summer of Data". Progress will be documented within the repos of this organization. 
